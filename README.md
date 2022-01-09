@@ -2,9 +2,9 @@
 
 ### Colombia. Bogota, D.C 🌃
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=scyth3-c&show_icons=true&hide_title=true&theme=gotham"/>  </br>
-</div>
+
+  ![stats](https://github-readme-stats.vercel.app/api?username=scyth3-c&show_icons=true&hide_title=true&theme=gotham)  </br>
+
 
 
 <br/>
