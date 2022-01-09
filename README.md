@@ -22,7 +22,7 @@ I like teamwork and cats** 🐱
 I am currently studying, but it does not represent a problem in my working life.
 
 
-you can write me for anything to **bohordo.png@gmail.com**, I'll keep an eye out!
+you can write me for anything to   <a href="mailto:bohordo.png@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red"><a/>,   I'll keep an eye out!
 
 <!--
 **scyth3-c/scyth3-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
