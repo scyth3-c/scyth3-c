@@ -3,9 +3,6 @@
 ### Colombia. Bogota, D.C 🌃
 
 
-  ![stats](https://github-readme-stats.vercel.app/api?username=scyth3-c&show_icons=true&hide_title=true&theme=gotham)  </br>
-
-
 
 <br/>
 <img src="https://img.shields.io/badge/ABOUT ME-blue">
@@ -16,10 +13,8 @@ _if you want to see more about me you can visit my portfolio of projects in_ [**
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyth3-c&theme=gotham"/>
 
 
-**i like a c++ lenguage,
-I like teamwork and cats** 🐱
+**I like teamwork and cats** 🐱
 
-I am currently studying, but it does not represent a problem in my working life.
 
 
 you can write me for anything to   <a href="mailto:bohordo.png@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red"><a/>,   I'll keep an eye out!
