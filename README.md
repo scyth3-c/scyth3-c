@@ -1,23 +1,18 @@
-## Kevin Bohorquez 💻
+## Kevin Bohorquez
 
-### Colombia. Bogota, D.C 🌃
+### Colombia. Bogota, D.C
 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyth3-c&theme=gotham"/>
 
-
-<br/>
-<img src="https://img.shields.io/badge/ABOUT ME-blue">
 Hi! my name is Kevin, I'm 19 years old and I live in Colombia, since I'm in high school I have ventured into the world of electronics and programming, I have experience working with micro controllers, programmable and embedded boards example of these are Pic, Arduino, Raspberry Pi etc.. I started in the world of programming with C++ on my own, since then I discovered how much I like this world, from there I was trying new technologies, new languages, I continued with javascript, Python, Php etc.. today I want to work as a web developer and continue learning and testing new technologies.
 
 _if you want to see more about me you can visit my portfolio of projects in_ [**BOHORDO.CODES**🦆](https://bohordo.codes/)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyth3-c&theme=gotham"/>
+
 
 
 **I like teamwork and cats** 🐱
 
-
-
-you can write me for anything to   <a href="mailto:bohordo.png@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red"><a/>,   I'll keep an eye out!
 
 <!--
 **scyth3-c/scyth3-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
