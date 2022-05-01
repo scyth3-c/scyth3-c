@@ -1,17 +1,75 @@
-## Kevin Bohorquez
-
-### Colombia. Bogota, D.C
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyth3-c&theme=gotham"/>
-
-Hi! my name is Kevin, I'm 19 years old and I live in Colombia, since I'm in high school I have ventured into the world of electronics and programming, I have experience working with micro controllers, programmable and embedded boards example of these are Pic, Arduino, Raspberry Pi etc.. I started in the world of programming with C++ on my own, since then I discovered how much I like this world, from there I was trying new technologies, new languages, I continued with javascript, Python, Php etc.. today I want to work as a web developer and continue learning and testing new technologies.
-
-_if you want to see more about me you can visit my portfolio of projects in_ [**BOHORDO.CODES**🦆](https://bohordo.codes/)
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="150"/>
+  
+</div>
+ 
+ <br/>
+ 
+  <div id="header" align="center">
+    <strong>
+    <code>
+      Hi 👋 I am a Full Stack Developer
+     </code>
+   </strong>
+  </div>
+  
+ 
+ <br/>
+ <br/>
+ 
+<div id="header" align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyth3-c&theme=gotham"/>
+   <br/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/kevin-bohorquez-rojas-bohordo/L">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCAWCJbCl07jXmPz1vHcTqWw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/KevinBohorquez_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
 
+ <br/>
 
-**I like teamwork and cats** 🐱
+<hr/>
+<div id="header" align="center">
+  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="cs" alt="cs" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="node" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxt" alt="nuxt" width="40" height="40"/>&nbsp;
+ <img src="https://user-images.githubusercontent.com/52190352/166165924-22e0ac74-8020-418a-938b-e159603c0c19.png" title="vuex" alt="vuex" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
+ 
+</div>
+ 
+ 
+ 
+ 
+
+<div align="center">
+  🐱
+</div>
 
 
 <!--
