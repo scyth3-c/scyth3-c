@@ -20,7 +20,7 @@
  <br/>
  
 <div id="header" align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyth3-c&theme=gotham"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyth3-c&theme=onedark"/>
    <br/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/kevin-bohorquez-rojas-bohordo/L">
