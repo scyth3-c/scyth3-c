@@ -71,7 +71,7 @@
   🐱 <br/>
   
  **You can visit my portfolio**
- [Here](https://bohordo.codes/)
+ [Here](https://bohorquez.tech/)
   
 </div>
 
