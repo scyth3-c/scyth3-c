@@ -15,6 +15,14 @@
    </strong>
   </div>
   
+  
+  <div align="center">
+  🐱 <br/>
+  
+ **You can visit my portfolio** 👉
+ [Here](https://bohorquez.tech/)
+  
+</div>
  
  <br/>
  <br/>
@@ -67,16 +75,6 @@
 </div>
  
  
- 
- 
-
-<div align="center">
-  🐱 <br/>
-  
- **You can visit my portfolio**
- [Here](https://bohorquez.tech/)
-  
-</div>
 
 
 <!--
