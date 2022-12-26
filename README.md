@@ -9,9 +9,9 @@
  
   <div id="header" align="center">
     <strong>
-    <code>
-      Hi 👋 I am a Full Stack Developer
-     </code>
+
+  Hi 👋 I am a Full Stack Developer
+
    </strong>
   </div>
   
