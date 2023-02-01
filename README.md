@@ -8,9 +8,10 @@
  <br/>
  
   <div id="header" align="center">
-    <strong>
+    <strong> 
+      
+      Cat Engineer
 
-  Hi 👋 I am a Full Stack Developer
 
    </strong>
   </div>
