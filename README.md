@@ -47,8 +47,12 @@
  <br/>
 
 <hr/> 
+
+<div align="center">
+
+[Puedes invitarme a un cafe ☕](https://www.buymeacoffee.com/bohorquezrW)</div>
  
-<div align="center"> <a style="color:red" href="mailto:bohordo.png@gmail.com" > bohordo.png@gmail.com</a> </div>
+<div align="center"> o escribirme, siempre leo todo <a style="color:red" href="mailto:bohordo.png@gmail.com" > bohordo.png@gmail.com</a> </div>
 
 <!--
 **scyth3-c/scyth3-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
