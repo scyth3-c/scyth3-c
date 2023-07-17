@@ -2,26 +2,29 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="150"/>
-  
 </div>
  
  <br/>
  
   <div id="header" align="center">
-    <strong> 
-      
+   <p> 
       Cat Engineer
+   </p>
 
-
-   </strong>
-  </div>
-  
+  <pre>
+  My name is Kevin Bohórquez, I drink a lot of coffee, a pleasure to meet you. 
+  I am a Full-Stack Engineer, I work in Front-end, Back-End, Databases, Desktop, Android Mobiles, Robotics
+  and electronics with  microcontrollers.
+  </pre>
   
   <div align="center">
   🐱 <br/>
-  
- **You can visit my portfolio** 👉
- [Here](https://bohorquez.tech/)
+
+  </div
+
+   
+<!-- **You can visit my portfolio** 👉  -->
+<!-- [Here](https://bohorquez.tech/) -->
   
 </div>
  
