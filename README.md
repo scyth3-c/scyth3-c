@@ -49,7 +49,7 @@
 
 [You can invite me to a coffee ☕](https://www.buymeacoffee.com/bohorquezrW)</div>
  
-<div align="center"> or write me, I always read all the emails <a style="color:red" href="mailto:bohordo.png@gmail.com" > bohordo.png@gmail.com</a> </div>
+<div align="center"> or write me, I always read all the emails <a style="color:red" href="mailto:kevin@bohorquez.cc" >kevin@bohorquez.cc</a> </div>
 
 <!--
 **scyth3-c/scyth3-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
